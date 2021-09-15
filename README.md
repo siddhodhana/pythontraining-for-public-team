@@ -1,3 +1,3 @@
 # pythontraining-for-public-team
-# Day-2
-- recording link: [day2](https://transcripts.gotomeeting.com/#/s/d79ba4425cb04f5d4351a5815fc97368f29a3a77cc59cd9fc1180c816ade049d)
+# Day-3
+- recording link: [day3](https://transcripts.gotomeeting.com/#/s/6256f889a40f7c71a7da2c61873b96c05591d7e01c5045c5842e16ae1c3a57e2)
